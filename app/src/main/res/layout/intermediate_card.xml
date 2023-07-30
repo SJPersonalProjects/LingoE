@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/intermediate_card"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:backgroundTint="#2d2a30"
+    android:layout_marginBottom="8dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/volume_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:paddingTop="12dp"
+            android:src="@drawable/ic_baseline_volume_up_24"/>
+
+        <LinearLayout
+            android:id="@+id/linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingEnd="138dp"
+            android:layout_toEndOf="@id/volume_up"
+            android:orientation="vertical"
+            tools:ignore="RtlSymmetry">
+
+            <TextView
+                android:id="@+id/vocabulary_word"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:paddingTop="20dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:text="Vocabulary"/>
+
+            <TextView
+                android:id="@+id/vocabulary_pronunciation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="4dp"
+                android:textStyle="italic"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:text="pronunciation"/>
+
+            <TextView
+                android:id="@+id/vocabulary_meaning"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="4dp"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                android:textColor="@color/white"
+                android:text="Sentence for the usage of the gap"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/vocabulary_card_image_view"
+            android:layout_width="124dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/door_vector"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

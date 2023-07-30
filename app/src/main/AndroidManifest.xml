@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lingoe">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@drawable/lingoe_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LingoE">
+        <activity
+            android:name=".newsfeeds.NewsFeedsArticleActivity"
+            android:exported="false"
+            android:label="Article"
+            android:parentActivityName=".newsfeeds.NewsFeedsActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android>support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.NewsFeedsActivity"/>
+        </activity>
+        <activity
+            android:name=".interactivebooks.PDFBookActivity"
+            android:exported="false"
+            android:parentActivityName=".interactivestories.InteractiveStoryActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android>support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.InteractiveStoryActivity"/>
+        </activity>
+        <activity
+            android:name=".readingtracker.ReadingTrackerActivity"
+            android:exported="false"
+            android:label="Reading Tracker"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".playandlearn.PlayAndLearnActivity"
+            android:exported="false"
+            android:label="Play And Learn"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".interactivebooks.InteractiveBooksActivity"
+            android:exported="false"
+            android:label="Interactive Books"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent Activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".gamesandflashcards.GamesAndFlashcardsActivity"
+            android:exported="false"
+            android:label="Games And Flashcards"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower. -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".interactivestories.InteractiveStoryActivity"
+            android:exported="false"
+            android:label="Interactive Stories"
+            android:parentActivityName="com.example.lingoe.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 or lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".newsfeeds.NewsFeedsActivity"
+            android:exported="false"
+            android:label="News Feeds"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent Activity meta-data to support 4.0 or lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".advance.AdvanceActivity"
+            android:exported="false"
+            android:label="Advance Practice"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent Activity meta-data to support 4.0 or lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".intermediate.IntermediateActivity"
+            android:exported="false"
+            android:label="Intermediate Practice"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent Activity meta-data to support 4.0 or lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".beginners.BeginnersActivity"
+            android:exported="false"
+            android:label="Beginners Practice"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent Activity meta-data to support 4.0 or lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.lingoe.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

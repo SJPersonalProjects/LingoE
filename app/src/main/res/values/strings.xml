@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">LingoE</string>
+    <string name="lets_learn_english">Let\'s Learn English!</string>
+    <string name="get_to_know_the_english_writing">Get to know the English grammar</string>
+    <string name="system">system...</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="happy_alphabets">Happy Alphabets</string>
+    <string name="todo">TODO</string>
+
+    <string name="oops">Oops…!</string>
+    <string name="the_content_is_being_prepared...">The content is being prepared…</string>
+    <string name="happy_books">Happy Books</string>
+    <string name="read_these_english_short_books">Read these English short books</string>
+    <string name="and_be_good_at_reading">and be good at reading...</string>
+    <string name="app_title">Title of the article</string>
+    <string name="app_description">This is the description of the article and whenever I wanna change it I can because its a good way of creating strings.</string>
+
+
+    <string name="article_one_title">5 SIMPLE WAYS TO IMPROVE YOUR WRITTEN ENGLISH</string>
+
+    <string name="article_one_description">Many people struggle with writing in English and it can seem like a real challenge to improve. Don’t
+        worry, though. Here are some simple steps that you can take to improve your written English and
+        impress people with your writing skills.
+    \n\n1. Expand your vocabulary.
+        \n\nTo express yourself clearly, you need a good active vocabulary. That’s not just being able to
+        recognise lots of words – it means actually being able to use them correctly. Do this by learning
+        new words with example sentences, not just word lists.
+    \n\n2. Master English spelling.
+        \n\nYou must know how to spell those words correctly. Incorrect spelling changes the meaning of your
+        sentence. For example: ‘bare’ and ‘bear’ sound the same but ‘bare’ means naked and ‘bear’ is a
+        large animal. Additionally, incorrect spelling makes it difficult for the reader to understand what
+        you’ve written.
+    \n\n3. Read regularly.
+        \n\nPeople often say that we learn to write best by reading. Reading in English is useful in many ways
+        It is a great way to get an idea of the different styles of writing and see how to use words
+        appropriately.
+    \n\n4. Improve your grammar.
+        \n\nGrammar is very important because it improves the quality of your writing. Always use the
+        appropriate tense and remember to use punctuation. Punctuation is a great way to make your
+        writing clear and fluent.
+    \n\n5. Just do it!
+        \n\nWriting can be daunting. However, the best way to improve is get a pen and paper or sit in front of
+        your computer and actually write. Be prepared to write several versions of each text because even
+        for professional writers, the first draft is never perfect. Remember, practice makes perfect, so now
+        is the best time to sit down and get started with our the English quizzes!</string>
+
+
+    <string name="article_two_title">IMPROVE WRITING SKILLS DRAMATICALLY BY DOING THESE 15 THINGS</string>
+
+    <string name="article_two_description">Learning a variety of tricks to improve writing skills isn’t as difficult as you may think.
+        We’ve put together a list of steps to help you make dramatic improvements to the
+        quality of your writing in short order.
+        \nBecoming a better writer takes practice, and you’re already practicing. No, seriously
+        —you write a lot. Even if you don’t think of yourself as a writer, you put thoughts into
+        text more often than you realize. At the very least, you write emails—a lot of emails
+        —post on social media, make updates to your résumé and LinkedIn profile, and
+        message your friends. If your job requires it, you also create things like reports,
+        presentations, newsletters . . . it’s a long list.
+        So, you’re already writing. Now, to improve writing is just a matter of becoming
+        conscious of the things you can do to give your text more structure and make your
+        copy crisp and readable with a conversational style.
+    \n\nGive Your Writing Structure.
+        \n\nIt’s fine to rattle off a stream of consciousness when you’re writing in your journal,
+        but if you actually want to communicate with others you’ll need to bring some order
+        to those rambling thoughts. Here are some tips.
+    \n\n1. Make sure you’re clear on the concepts you’re writing about.
+        \n\nAlbert Einstein said, “If you can’t explain it to a six-year-old, you don’t understand it
+        yourself.” Before you start writing, take a moment to mentally explain the concept to
+        the six-year-old who lives inside your head. (We all have one, don’t we?) If your writing
+        goal is to achieve a specific result, ask yourself what that result should be. Before
+        you dive into writing, have a clear purpose. Then stick to it.
+    \n\n2. If the message is complex, outline it.
+        \n\nIt doesn’t take much thought-organizing to compose the average text message, but if
+        you’re writing something more complex, with multiple angles, questions, or requests,
+        get all that stuff sorted before you sit down to write. Making an outline, or even just
+        some quick notes about the topics you want to cover, can save you time answering
+        clarifying questions later. And speaking of questions . . .
+    \n\n3. Anticipate your readers’ questions.
+        \n\nImproving writing involves putting yourself in your readers’ shoes. Do they have
+        enough context to understand what you’ve written for them? If not, fill in the blanks.
+        But . . .
+    \n\n4. Don’t over-explain everything.
+        \n\nIf you’ve taken the time to organize your thoughts in advance, you should be able to
+        keep things simple. The idea is to give readers just enough to understand what you’re
+        communicating without overwhelming them with trivial details. If you find yourself
+        getting in the weeds with more details than you need, look at each piece of
+        information and ask whether it’s essential to help your reader understand your
+        message. If not, get rid of it.
+    \n\n5. Go easy on the prepositional phrases.
+        \n\nWhen I was a neophyte writer, someone showed me how prepositional phrases made
+        my writing unnecessarily wordy and complex. It was an epiphany!
+        Prepositions aren’t difficult to understand, but the concept does require some
+        explanation. Get smart about prepositions here, and then try to simplify them
+        whenever it makes sense. Your writing will get a much-needed clarity boost.
+    \n\n6. Eliminate the filler words and phrases.
+        \n\nSome words show up in our writing all the time, and yet they don’t contribute much of
+        anything. Although these filler words and phrases sometimes add color or even
+        meaning, most of the time they contribute nothing but clutter. Here are thirty-one of
+        them you can eliminate right now.
+    \n\n7. Don’t pad weak words with adverbs.
+        \n\nAdverbs—those words that often end in -ly—modify verbs and sometimes
+        adjectives. They’re okay once in a while, but when you find yourself using them all the
+        time, you’re probably making weak word choices. Instead of “ran really fast” write
+        “sprinted.” Was something “extremely funny”? Nah, it was “hilarious.” The scenery
+        may have been “very beautiful,” but your writing’s going to shine if you refer to it as
+        “gorgeous,” “lush,” “verdant,” or “bucolic.”
+    \n\n8. Stick with simple words.
+        \n\nBestselling author John Grisham said, “There are three types of words: (1) words we
+        know; (2) words we should know; (3) words nobody knows. Forget those in the third
+        category and use restraint with those in the second.” There’s a difference between
+        having a rich vocabulary and dropping million-dollar words into your writing just to
+        show off. Unless it’s your intent to be poetic, keep your language simple and direct.
+    \n\n9. Use contractions.
+        \n\nEnglish speakers use contractions—you’re, I’m, we’re, they’re, can’t, didn’t. Your
+        writing will sound stiff and formal without them.
+    \n\n10. Try transcribing yourself.
+        \n\nRecord yourself talking. You can learn a lot about conversational writing using this
+        one weird trick! (Sorry, Buzzfeed, we tease because we care.)
+        Try transcribing a conversation you’ve recorded (with the other person’s permission,
+        of course). Transcribe a couple of minutes of the conversation word-for-word. Then,
+        fix or remove any false starts and remove filler (um, uh, like, you know)—et voila!—
+        you’ve got yourself some conversational writing. The process of transcribing and
+        editing will help you learn what to do and what not to.
+    \n\n11. Throw away the grammar rule book . . . within reason.
+        \n\nWe, the Grammarly team, give you permission to start sentences with conjunctions.
+        And (see what we did there?) unless you’re writing something formal, we’re perfectly
+        okay with you ending some sentences with prepositions. Write naturally, human! It’s
+        all good.
+    \n\n12.  Keep your sentences simple.
+        \n\nLiterary greats can write long, complex sentences with flair. Why not you? Well, for
+        starters you’re probably not trying to write like Tolstoy, Nabokov, or Faulkner. Short,
+        less complicated sentences are easier to read. Keep it simple, silly! But do vary your
+        sentence length so your writing has a nice flow.
+    \n\n13. Read it out loud.
+        \n\nSpeaking of flow, reading your writing aloud can help you determine whether it flows
+        smoothly. If it sounds choppy and clipped, add a few longer sentences to break up
+        that steady, monotonous beat. If you find yourself stumbling over parts, you’ve
+        probably found an overly complex sentence that needs rewriting. I always
+        recommend reading your work out loud . . . because it works!
+    \n\n14. Infuse your personality into your writing.
+        \n\nLetting your personality shine through is the best way to develop a writing style. Use
+        the phrases and slang that you would normally use (within reason). When it’s
+        appropriate, throw in a relevant personal anecdote. In all but the most formal or
+        professional writing settings, be yourself when you write.
+    \n\n15. Practice, practice, practice!
+        \n\nThe ultimate way to improving writing is to learn what weakens it in the first place,
+        and then set your mind to fixing (and eventually preventing) the glitches. The more
+        you write, edit, and proofread, the better you get at it. </string>
+
+
+    <string name="article_three_title">10 TOP TIPS FOR IMPROVING YOUR SPOKEN ENGLISH</string>
+
+    <string name="article_three_description">Practising speaking is one of the most fun and rewarding parts of learning English. Once you can
+        speak even a little English, there are loads of ways to improve your skills quickly while having tons
+        of fun. Here are ten top tips for improving your spoken English and having a great time while you do it!
+    \n\n1. Speak, speak, speak!
+        \n\nBe confident and speak as often as possible to as many people as you possibly can! Do not be shy
+        to make mistakes! The more you practice the better and more confident you will become in your
+        pronunciation and vocabulary. Remember, speaking is a skill like learning a musical instrument or
+        new sport – the only way you can get good is to actually do it!
+    \n\n2. Use technology.
+        \n\nA smartphone can be a powerful tool for learning languages. Use it to record yourself speaking
+        then listen back to see how your English sounds to other people. Make the most of all your
+        favourite productivity apps to organise your practice time and make a note of all the new words
+        you learn.
+    \n\n3. Listen.
+        \n\nListen to news bulletins and songs in English to listen to the pronunciation of words. You can also
+        learn new words and expressions this way. The more you listen, the more you learn! Try copying
+        what you hear to practise your pronunciation and learn which words in a sentence are stressed.
+    \n\n4. Read out loud.
+        \n\nRead the newspaper or a magazine out to yourself. You could even find a script for your favourite
+        TV show and act it out! This is a great way to practise pronunciation because you only need to
+        concentrate on making sure you English sounds great and don’t need to worry about sentence
+        structure or grammar.
+    \n\n5. Learn a new word every day.
+        \n\nChoose a word you would like to work on and use practice it in different sentences. Use the word
+        until you have learnt it and keep using it regularly.
+    \n\n6. Watch films.
+        \n\nWatch movies in English and pay attention to new vocabulary and pronunciation.
+        Imitate the actors and have fun with it
+    \n\n7. Make friends.
+        \n\nMake friends with English speakers or others learning to speak English and compare notes. Talk
+        about things that you have learnt and exchange ideas.
+    \n\n8. Do interesting activities in English.
+        \n\nTake a cooking course in English or join a book club! Anything you enjoy doing, make sure you do it
+        and communicate it in English. Using English to talk about things you enjoy will make practising a
+        positive experience.
+    \n\n9. Have a debate.
+        \n\nDebate all the topics that interest you with friends in English. Try to use as much vocabulary as you
+        can to get your point across and listen to the other arguments carefully so you can argue against
+        them effectively.
+    \n\n10. Use a dictionary.
+        \n\nOnline dictionaries often have audio examples so you can check your pronunciation and there are
+        lots of great dictionary apps that you can take everywhere with you on your smartphone. Make
+        sure not to become too reliant on these tools, though. Have a go at saying the words first then
+        check afterwards to see if you were right!
+        \n\nSo, with all these practice tips to choose from, which one are you going to try first?</string>
+</resources>
